@@ -1,0 +1,32 @@
+
+
+.panels{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+#controls{
+	list-style: none;
+	border: 1px solid #888;
+	padding: 10px;
+	font-size: 14px;
+}
+
+.control-button{
+	border: 1px solid #ccc;
+	padding: 5px 15px;
+	margin-bottom: 5px;
+	cursor: pointer;
+	background: rgba(0,0,0,0);
+}
+
+	.control-button.on{
+		background: rgba(0,0,0,0.3);
+	}
+
+
+
+
+
+
